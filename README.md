@@ -8,7 +8,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 
 --> Birinci klasörde yükleme robotunun PLC ve HMI yazılımı bulunur.
 
---> İkinci klasörde yükleme robotunun gerçek çalışma videosu bulunur.Video indirilmelidir.(24 MB ve 1 dk).
+--> İkinci klasörde yükleme robotunun çalışma videosu bulunur.Video indirilmelidir.(24 MB ve 1 dk).
 
 --> Üçüncü klasörde projeye hızlı bakış için yükleme robotunun PLC ve HMI yazılımının 24 fotoğrafı bulunur.
 
@@ -24,7 +24,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 
 Loading robot has two modes,vacuum and catch.
 
-Loading robot gets the marbles on the rotating table by running these two modes. 
+Loading robot gets the marbles on the rotating table by running in these two modes. 
 
 Then it gives the marble to the conveyor belt by turning the roll which is on it.
 
