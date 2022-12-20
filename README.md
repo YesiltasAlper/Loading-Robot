@@ -1,7 +1,8 @@
 # Loading-Robot
 
-Konveyor üzerinden mermer geldiğinde sensör görür ve konveyör yavaşlar.
-Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
+Yukleme robotu vakum ve kapma modu olmak üzere 2 moda sahiptir.
+Bu 2 modda çalıştırılarak mermeri doner sehpadan alır.
+Ardından uzerindeki rulosunu dondurerek mermeri konveyor bant a verir.
 
 --> Birinci klasörde yükleme robotunun PLC ve HMI yazılımı bulunur.
 
@@ -13,13 +14,14 @@ Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 
 ******************************************************************************************************************
 
-When the marble comes on the conveyor belt,sensor sees and conveyor belt gets slower.
-Then until sensor does not see marble which comes on the conveyor belt,marble is siliconized.
+Loading robot has two modes,vacuum and catch.
+Loading robot gets the marbles on the rotating table by running these two modes. 
+Then it gives the marble to the conveyor belt by turning the roll which is on it.
 
 --> First folder contains PLC and HMI Software of Loading Robot.
 
 --> Second folder contains working video of Loading Robot.It needs to be downloaded.(24 MB and 1 min).
 
---> Third folder contains twenty four photos of PLC AND HMI Software of Loading Robot for project overview.
+--> Third folder contains twenty four photos of PLC and HMI Software of Loading Robot for project overview.
 
 --> Fourth folder contains a photo of Loading Robot Project.
