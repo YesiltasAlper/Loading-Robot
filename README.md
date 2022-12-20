@@ -19,7 +19,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 !-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir. 
 
 
-******************************************************************************************************************
+*****************************************************************************************************************
 
 
 Loading robot has two modes,vacuum and catch.
