@@ -8,7 +8,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 
 --> Birinci klasörde yükleme robotunun PLC ve HMI yazılımı bulunur.
 
---> İkinci klasörde yükleme robotunun çalışma videosu bulunur.Video indirilmelidir. (24 MB ve 1 dk).
+--> İkinci klasörde yükleme robotunun çalışma videosu bulunur.Video indirilmelidir. (24 MB ve 1 dk)
 
 --> Üçüncü klasörde projeye hızlı bakış için yükleme robotunun PLC ve HMI yazılımının 24 fotoğrafı bulunur.
 
