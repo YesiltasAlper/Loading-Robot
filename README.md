@@ -8,7 +8,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 
 --> Birinci klasörde yükleme robotunun PLC ve HMI yazılımı bulunur.
 
---> İkinci klasörde yükleme robotunun çalışma videosu bulunur.Video indirilmelidir.(24 MB ve 1 dk).
+--> İkinci klasörde yükleme robotunun çalışma videosu bulunur.Video indirilmelidir. (24 MB ve 1 dk).
 
 --> Üçüncü klasörde projeye hızlı bakış için yükleme robotunun PLC ve HMI yazılımının 24 fotoğrafı bulunur.
 
@@ -30,7 +30,7 @@ Then it gives the marble to the conveyor belt by turning the roll which is on it
 
 --> First folder contains PLC and HMI Software of Loading Robot.
 
---> Second folder contains working video of Loading Robot.It needs to be downloaded.(24 MB and 1 min).
+--> Second folder contains working video of Loading Robot.It needs to be downloaded. (24 MB and 1 min).
 
 --> Third folder contains twenty four photos of PLC and HMI Software of Loading Robot for project overview.
 
