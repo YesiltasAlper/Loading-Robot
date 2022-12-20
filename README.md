@@ -4,7 +4,7 @@ Yukleme robotu vakum ve kapma modu olmak üzere 2 moda sahiptir.
 
 Bu 2 modda çalıştırılarak mermeri doner sehpadan alır.
 
-Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir
+Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 
 --> Birinci klasörde yükleme robotunun PLC ve HMI yazılımı bulunur.
 
