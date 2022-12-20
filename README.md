@@ -1,7 +1,9 @@
 # Loading-Robot
 
 Yukleme robotu vakum ve kapma modu olmak üzere 2 moda sahiptir.
+
 Bu 2 modda çalıştırılarak mermeri doner sehpadan alır.
+
 Ardından uzerindeki rulosunu dondurerek mermeri konveyor bant a verir.
 
 --> Birinci klasörde yükleme robotunun PLC ve HMI yazılımı bulunur.
@@ -13,6 +15,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor bant a verir.
 --> Dördüncü klasörde yükleme robotunun projesinin 1 fotoğrafı bulunur.
 
 !-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir.
+
 !-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir. 
 
 
@@ -20,7 +23,9 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor bant a verir.
 
 
 Loading robot has two modes,vacuum and catch.
+
 Loading robot gets the marbles on the rotating table by running these two modes. 
+
 Then it gives the marble to the conveyor belt by turning the roll which is on it.
 
 --> First folder contains PLC and HMI Software of Loading Robot.
@@ -32,5 +37,6 @@ Then it gives the marble to the conveyor belt by turning the roll which is on it
 --> Fourth folder contains a photo of Loading Robot Project.
 
 !-> To be able to run PLC Software "Control FPWIN Pro 7" software should be downloaded.
+
 !-> To be able to run HMI Software "EasyAccess" software should be downloaded.
 
