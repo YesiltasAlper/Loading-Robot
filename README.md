@@ -14,7 +14,7 @@ Ardından uzerindeki rulosunu dondurerek mermeri konveyor banta verir.
 
 --> Dördüncü klasörde yükleme robotunun projesinin 1 fotoğrafı bulunur.
 
-!-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir
+!-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir.
 
 !-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir.
 
